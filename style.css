@@ -1,0 +1,28 @@
+body{
+  background-color: #5f9ea0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  color: #fff;
+  text-align: center;
+  margin-top: 5rem;
+}
+section{
+  background-color: #fff;
+  margin: 5rem 25rem 5rem 25rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+#enter_dados{
+  text-align: center;
+}
+#enter_opr{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+#exit_dados{
+  padding-left: 246px;
+}
+footer{
+  text-align: center;
+}
